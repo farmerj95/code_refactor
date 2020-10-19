@@ -1,7 +1,7 @@
 # Code_Refactor
 
 ---
-The application can be accessed here: [https://github.com/farmerj95/code_refactor/](https://github.com/farmerj95/code_refactor)
+The application can be accessed here: [https://farmerj95.github.io/code_refactor/](https://farmerj95.github.io/code_refactor/)
 
 ## Accepted Criteria 
 
